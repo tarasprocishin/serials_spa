@@ -1,0 +1,21 @@
+.filter {
+  padding: 10px;
+  height: 50px;
+  text-align: center;
+  font-size: 32px;
+  font-style: italic;
+  background: #28402e;
+  color: white;
+}
+
+.filter select {
+  color: white;
+  background: #28402e;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+.filter select:hover {
+  background: white;
+  color: #28402e;
+}

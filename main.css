@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css?family=Prompt:400,900|Roboto&display=swap");
+@import "./normlize.css";
+
+.container {
+  font-family: "Roboto", sans-serif;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.statick {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 20px 0;
+  text-align: center;
+  font-size: 32px;
+  background: #28402e;
+  color: white;
+}

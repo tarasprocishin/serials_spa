@@ -1,0 +1,44 @@
+.episode {
+  display: flex;
+  flex-direction: column;
+}
+
+.decription {
+  display: flex;
+  margin-bottom: 50px;
+  margin-top: 40px;
+}
+
+.descrition_text {
+  width: 65%;
+  margin-right: 20px;
+}
+
+.poster_episode {
+  margin-right: 20px;
+  width: 100%;
+}
+
+.guest_stars {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.guest_stars__item {
+  margin: 0 20px;
+}
+
+.poster__guest_stars {
+  width: 150px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.title {
+  font-size: 26px;
+  font-weight: bold;
+}
